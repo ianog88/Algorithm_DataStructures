@@ -9,10 +9,10 @@ This notebook contains the implementation of recursive, sorting and searching al
 ### Data Structures 
 All data structures were implemented in C++ as per the module descriptions. The following data structures were included:
 - Array ([array.cpp](array.cpp))
-- Binary Tree
-- Graph
-- Hash Table 
-- Heap
-- Linked List 
-- Queue
-- Stack  
+- Binary Tree ([binary_tree.cpp](binary_tree.cpp))
+- Graph ([graph.cpp](graph.cpp))
+- Hash Table ([hash_table.cpp](hash_table.cpp))
+- Heap ([heap.cpp](heap.cpp))
+- Linked List ([linked_list.cpp](linked_list.cpp))
+- Queue ([queue.cpp](queue.cpp))
+- Stack ([stack.cpp](stack.cpp))
